@@ -12,3 +12,7 @@ Project sistem tiket berbasis Laravel
 2. cp .env.example .env
 3. php artisan key:generate
 4. php artisan migrate
+
+## Setup Database
+php artisan migrate
+php artisan db:seed
